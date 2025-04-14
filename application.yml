@@ -1,3 +1,4 @@
+spring.application.name=Config-Default
 #Eureka Client or Disscovery client configuration
 eureka.instance.prefer-ip-address=true
 eureka.client.register-with-eureka=true
